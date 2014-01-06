@@ -1,0 +1,16 @@
+{
+  "name": "wflow-adapter-fs",
+  "version": "0.0.1",
+  "description": "fs adapter for wflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaxGfeller/wflow-adapter-fs.git"
+  },
+  "author": "Max Gfeller <max.gfeller@gmail.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
