@@ -12,5 +12,8 @@
   },
   "author": "Max Gfeller <max.gfeller@gmail.com>",
   "license": "BSD",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "node-serialize": "0.0.3"
+  }
 }
